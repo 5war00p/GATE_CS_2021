@@ -5,4 +5,4 @@ https://www.geeksforgeeks.org/gate-cs-notes-gq/
 GATE Questions free:
 https://questions.examside.com/past-years/gate/gate-cse/
 https://www.geeksforgeeks.org/gate-corner-2-gq/
-https://pyq.ravindrababuravula.com/subjects/
+https://pyq.ravindrababuravula.com/subjects/ 
