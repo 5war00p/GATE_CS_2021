@@ -2,10 +2,10 @@
 Full Content Structure:
 https://www.geeksforgeeks.org/gate-cs-notes-gq/
 
-GATE Questions free:
-https://questions.examside.com/past-years/gate/gate-cse/
-https://www.geeksforgeeks.org/gate-corner-2-gq/
+GATE Questions Subject-Wise:
 https://pyq.ravindrababuravula.com/subjects/ 
 
-
-https://academyera.com/gate-topic-wise-questions-for-cse  (topic wise)
+GATE Questions Topic-Wise:
+https://questions.examside.com/past-years/gate/gate-cse/
+https://www.geeksforgeeks.org/gate-corner-2-gq/
+https://academyera.com/gate-topic-wise-questions-for-cse
