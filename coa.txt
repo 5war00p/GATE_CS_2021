@@ -1,0 +1,24 @@
+https://exergic.in/gate-test-series/
+1) Hannessy Patterson - for intuition of cache(library example), virtual memory and pipeline(washing machine).
+
+For cache read till Handling cache misses. You can read section 7.3(Measuring and improving cache performance) as well.
+
+For pipeline, read chapter 6 till hazards.
+
+Expected time to complete is 2–3 days and give it a slow read. Once the analogy sets in you will never forget cache and pipeline.
+
+After this read Chapter 4 from William Stallings for cache. From here you will be able to pick up formulae necessary for solving GATE questions.
+
+For pipeline, attempt the exercises of Carl Hamacher book combined with previous year questions.
+
+Why did I stress more on cache and pipeline is because 60–70% previous year questions are based on these two concepts only.
+
+For rest of the topics(number system,I/o etc), refer to chapter 4 to 9(till arithmetic) from Carl Hamacher book.
+
+Google+ YouTube videos(COA by IIT Madras in nptel) are also helpful to make you understand any concept.
+
+You must stress on solving GATE questions first followed by solving back exercises on your own.
+
+Generally, COA is not taught well but sometimes it can fetch you very easy 4–5 marks.
+
+Best of luck!
