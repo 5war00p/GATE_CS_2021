@@ -1,0 +1,27 @@
+In order to solve these type of questions in GATE, we will give 2 important theorems. Proofs of these is beyond the scope of this explanation. 
+For Proofs please refer to Introduction To Algorithms by Thomas Cormen.
+
+Theorem - 1 When a given Hard Problem (NPC, NPH and Undecidable Problems) is reduced to an unknown problem in polynomial time, 
+then unknown problem also becomes Hard.
+
+Case - 1  When NPC(NP-Complete) problem is reduced to unknown problem, unknown problem becomes NPH(NP-Hard).
+
+ Case - 2 When NPH(NP-Hard) problem is reduced to unknown problem, unknown problem becomes NPH(NP-Hard).
+
+Case - 3 When undecidable problem is reduced to unknown problem, unknown problem becomes also becomes undecidable.
+
+Remember that Hard problems needs to be converted for this theorem but not the other way.
+
+Theorem - 2
+
+When an unknown problem  is reduced to an  Easy problem(P or NP) in polynomial time, then unknown problem also becomes easy.
+
+Case - 1  When an unknown problem  is reduced to a P type problem, unknown problem also becomes P.
+
+Case - 2 When an unknown problem  is reduced to a NP type problem, unknown problem also becomes NP.
+
+Remember that unknown problems needs to be converted for this theorem to work but not the other way.
+
+In the given question, X which is unknown problem is reduced to NPC problem in polynomial time so Theorem - 1 will not work. 
+But all NPC problems are also NP, so we can say that X is getting reduced to a known NP problem so that  Theorem - 2 is applicable and X is also NP. 
+In order to make it NPC, we have to prove it NPH first which is not the case as Y is not getting reduced to X.
