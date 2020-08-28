@@ -22,6 +22,3 @@ Case - 2 When an unknown problem  is reduced to a NP type problem, unknown probl
 
 Remember that unknown problems needs to be converted for this theorem to work but not the other way.
 
-In the given question, X which is unknown problem is reduced to NPC problem in polynomial time so Theorem - 1 will not work. 
-But all NPC problems are also NP, so we can say that X is getting reduced to a known NP problem so that  Theorem - 2 is applicable and X is also NP. 
-In order to make it NPC, we have to prove it NPH first which is not the case as Y is not getting reduced to X.

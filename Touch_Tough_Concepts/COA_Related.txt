@@ -1,4 +1,3 @@
-https://exergic.in/gate-test-series/
 1) Hannessy Patterson - for intuition of cache(library example), virtual memory and pipeline(washing machine).
 
 For cache read till Handling cache misses. You can read section 7.3(Measuring and improving cache performance) as well.
