@@ -3,9 +3,17 @@ Full Content Structure:
 https://www.geeksforgeeks.org/gate-cs-notes-gq/
 
 GATE Questions Subject-Wise:
+
 https://pyq.ravindrababuravula.com/subjects/ 
 
+https://www.prep.youth4work.com/Engineering/GATE-Computer-Science-(CS)-Test/Computer-Science-and-Information-Technology-Test
+
+https://drive.google.com/drive/u/0/folders/1XENu3WYTgqDxMt0RUC2Y24wtOU7A2Af3 [MADEEASY]
+
+https://drive.google.com/drive/u/0/folders/18og6npAuCG7PNL2kkvc0AS3AkdBBqy7k [MADEEASY]
+
 GATE Questions Topic-Wise:
+
 https://questions.examside.com/past-years/gate/gate-cse/
 https://www.geeksforgeeks.org/gate-corner-2-gq/
 https://academyera.com/gate-topic-wise-questions-for-cse
